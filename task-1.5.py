@@ -5,4 +5,4 @@
 s1=set(map(int,input("Enter the Elements of Set1 each elements is separated by comma',' Example=1,2,3 etc:").split(",")))
 s2=set(map(int,input("Enter the Elements of Set2 each elements is separated by comma',':").split(",")))
 s1=s1.difference(s2)
-print(f"First set is updated with items that exist only in the first set and not in the second set: {s1}")
+print(f"First set is updated with items that exist only in the first set and not in the second set: {set(s1)}")
