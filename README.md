@@ -19,7 +19,7 @@ S2={1,3,4,6,8,11,22,34,51,67}
 6.Program to create simple calculator in Python which on input of 1,2,3,4 should add , subtract , multiply and divide respectively.
 
 
-
+***[DataFrame is a 2-dimensional labeled data structure with columns of potentially different types. You can think of it like a spreadsheet or SQL table, or a dict of Series objects. It is generally the most commonly used pandas object.]***
 
 
 PANDAS:
